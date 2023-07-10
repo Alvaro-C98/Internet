@@ -1,0 +1,234 @@
+* {
+    width: 970px;
+    font-family: Helvetica;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin: -70px 0px 0px 0px;
+}
+
+#title {
+    color: black;
+    margin: 20px 0px 5px 95px;
+    width: auto;
+    height: 50px;
+    font-size: 290%;
+    font-weight: 100;
+}
+
+span,
+article>h4>span {
+    color: #3570a1;
+    height: 40px;
+}
+
+#title2 {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to top, #3977ab, #5384ac 40%, #6195bf 50%, #3977ab 75%);
+    width: auto;
+    height: 30px;
+    margin: 0 0 0 0;
+    padding: 15px;
+    font-size: 180%;
+}
+
+main {
+    background: linear-gradient(#dad8d8, #ffffff 30%);
+
+}
+
+aside {
+    width: 190px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+aside>h4,
+aside>h3 {
+    width: auto;
+    height: auto;
+    font-size: 80%;
+}
+
+aside>h4 {
+    font-size: 95%;
+    margin: 20px 0px 0px 0px;
+}
+
+h4>span {
+    color: red;
+}
+
+input {
+    width: 190px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: white;
+    font-size: 110%;
+    border-color: transparent;
+}
+
+.clic1 {
+    background: linear-gradient(#5f94be, #3572a5);
+}
+
+.clic2 {
+    background: linear-gradient(#eaaa59, #ed8117);
+}
+
+hr {
+    width: auto;
+    margin: 20px 0px;
+    height: auto;
+}
+
+.ad_background {
+    width: 190px;
+    height: 290px;
+    margin-top: 1px;
+    position: relative;
+}
+
+aside>h5 {
+    width: 180px;
+    color: white;
+    position: absolute;
+    margin: -270px 0px 0px 5px;
+    font-size: 140%;
+    text-align: center;
+    font-weight: normal;
+}
+
+.ninja {
+    position: absolute;
+    height: auto;
+    margin: 100px 0px 0px -145px;
+}
+
+.clic3 {
+    border: 2px solid black;
+    position: absolute;
+    margin: 230px 0px 0px -180px;
+    width: auto;
+    height: auto;
+    background: linear-gradient(#62cdde, #18c3dd);
+    font-size: 100%;
+    padding: 5px 25px;
+}
+
+nav {
+    width: 735px;
+    margin: -15px 0px 0px 30px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+nav>.home {
+    width: 20px;
+    height: 20px;
+    margin: 20px 0px 0px 0px;
+}
+
+nav>p {
+    margin: 23px 25px;
+    font-size: 110%;
+}
+
+nav>.phone {
+    width: 40px;
+    height: 40px;
+    margin: -40px 0px 20px 540px;
+}
+
+.schedule {
+    font-size: 65%;
+    margin: -45px 0px 0px 590px;
+    line-height: 90%;
+}
+
+.num_phone {
+    font-size: 220%;
+    margin: 0;
+    color: #00c0dd;
+}
+
+.line {
+    margin: 0;
+}
+
+article {
+    display: inline-block;
+    margin: -490px 0px 0px 230px;
+    width: 730px;
+    vertical-align: top;
+}
+
+li>span,
+article>p>span,
+footer>p>span {
+    color: #0397ad;
+}
+
+article>h3,
+article>p {
+    line-height: 30%;
+}
+
+article>ul>li {
+    line-height: 120%;
+    width: 680px;
+    font-size: 93%;
+    margin-bottom: -10px;
+}
+
+article>img {
+    width: 45%;
+    height: 17%;
+    margin: 10px 0px 0px 210px;
+}
+
+article>h4 {
+    margin: 150px 0px -10px 0px;
+    font-size: 120%;
+}
+
+article>ol>li {
+    width: 680px;
+    font-size: 93%;
+    line-height: 140%;
+}
+
+footer {
+    border-top: 5px solid #0087dd;
+    border-right: 5px solid #0087dd;
+    border-left: 5px solid #0087dd;
+    width: 730px;
+    height: 150px;
+    margin: 0px 0px 0px 230px;
+}
+
+footer>img {
+    width: 120px;
+    height: 110px;
+    margin: 10px 0px 0px 10px;
+}
+
+footer>h3 {
+    margin: 10px 0px 0px 140px;
+    font-size: 125%;
+}
+
+footer>p {
+    width: 570px;
+    margin: 10px 0px 0px 145px;
+    font-size: 95%;
+}
+
+footer>pre {
+    margin: 5px 75px;
+    ;
+}
